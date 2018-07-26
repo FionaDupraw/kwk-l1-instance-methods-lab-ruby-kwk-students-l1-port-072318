@@ -4,4 +4,4 @@ class Dog
     puts "Woof!"
   end
 
-bark
+puts bark

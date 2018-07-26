@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
-  def initialize("bark")
+  def initialize ("bark")
     @bark = bark
     puts "Woof!"
   end
